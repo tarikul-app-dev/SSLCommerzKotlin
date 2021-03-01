@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color_signup">#F7F7F7</color>
+    <color name="black">#000000</color>
+    <color name="black_opacity">#B3000000</color>
+    <color name="black_transparent">#80000000</color>
+    <color name="button_disable">#AA9FD1</color>
+    <color name="clementine">#EF6C00</color>
+    <color name="clementine_pressed">#EF6E60</color>
+    <color name="colorAccent">#333333</color>
+    <color name="colorPrimary">#0698d2</color>
+    <color name="colorPrimaryDark">#006fa2</color>
+    <color name="edit_text_color">#4B4B49</color>
+    <color name="grey">#808080</color>
+    <color name="product_text_color">#FF5C5C</color>
+    <color name="tabActiveColor">#006fa2</color>
+    <color name="tabBackground">#0698d2</color>
+    <color name="tabDeactiveColor">#0698d2</color>
+    <color name="tabSelectedBackground">#006fa2</color>
+    <color name="textColor">#80333333</color>
+    <color name="very_light_grey">#CDCDCD</color>
+    <color name="view_color">#757575</color>
+    <color name="visaColorCode">#192061</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_off">#C4C4C4</color>
+    <string name="additional_fees_colon">Additional Fees: </string>
+    <string name="alert">Alert</string>
+    <string name="already_registered_so_verify">You are already register in our system, So please verify your <b>mobile number</b></string>
+    <string name="amount_colon">Amount: </string>
+    <string name="app_name">SSLCommerzLibrary</string>
+    <string name="avail_emi">Avail EMI</string>
+    <string name="card_holder_name">Card Holder Name</string>
+    <string name="cards">Cards</string>
+    <string name="change_card">Change Card</string>
+    <string name="change_number">Change Number</string>
+    <string name="custumer_care_text">Customer Care Representative</string>
+    <string name="cvc">CVC/CVV</string>
+    <string name="delete">Delete</string>
+    <string name="delete_card">Delete Card!!</string>
+    <string name="delete_message">Do you want to Delete?</string>
+    <string name="do_you_want_to_pay_with_emi">Do you want to pay with EMI?</string>
+    <string name="email_text">Click here to email us</string>
+    <string name="emi_bank_list_heading">EMI is available for</string>
+    <string name="enter_card_number">Enter Card Number</string>
+    <string name="enter_expire_date">MM/YY</string>
+    <string name="enter_mobile_number">Enter Your Mobile Number</string>
+    <string name="faq">FAQ</string>
+    <string name="go_back">Go Back</string>
+    <string name="guest">Guest</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="internet_connection">Internet connection is not available.</string>
+    <string name="invalid_card">This card is invalid</string>
+    <string name="messenger_text">Click here for messenger live chat</string>
+    <string name="mobile_banking">Mobile Banking</string>
+    <string name="my_cards">My Cards</string>
+    <string name="net_banking">Net Banking</string>
+    <string name="no">No</string>
+    <string name="no_emi">No EMI</string>
+    <string name="no_offer_message">At present, there are no offers available. Please check back later.</string>
+    <string name="notification_error_ssl_cert_invalid">There is a problem with this website\'s security certificate. The security certificate presented by this website was issued for a different website\'s address. Press OK to continue</string>
+    <string name="offers">Offers</string>
+    <string name="other_cards">Other Cards</string>
+    <string name="pay">PAY</string>
+    <string name="pay_using_another_card">Pay using another card</string>
+    <string name="pin_length_must_be">PIN length must be 6</string>
+    <string name="proceed_without_offer">Proceeding without offer</string>
+    <string name="registered_so_verify">Please verify your <b>mobile number</b></string>
+    <string name="remember_me">Remember Me</string>
+    <string name="remember_me_warning">By clicking the remember me, you agree to our <font color="#EF6C00">Terms &amp; Conditions</font></string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="sdk_login">Login</string>
+    <string name="sdk_logout">Logout</string>
+    <string name="skip">Skip</string>
+    <string name="skip_this_step">Skip This Step</string>
+    <string name="support">Support</string>
+    <string name="support_text">We are here to help you with any information and problems through our contact center</string>
+    <string name="term_condition">Terms &amp; Conditions</string>
+    <string name="verification_code"><b>Enter the One-Time Password (OTP)</b> you have just received, in your mobile phone</string>
+    <string name="verify">Verify</string>
+    <string name="welcome_back_coma">Welcome Back,</string>
+    <string name="welcome_coma">Welcome,</string>
+    <string name="yes">Yes</string>
+    <style name="AppTheme" parent="AppTheme.Base">
+
+    </style>
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlNormal">@color/colorAccent</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>
+        <!--<item name="spinnerStyle">@style/Widget.App.Spinner</item>
+        <item name="android:spinnerStyle">@style/Widget.App.Spinner</item>-->
+    </style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="EditTextLoginTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--<item name="colorControlNormal">@color/task_done_color</item>-->
+        <item name="colorControlActivated">@color/colorPrimary</item>
+        <item name="colorControlHighlight">@color/colorPrimaryDark</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="MyCustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">11sp</item>
+        <item name="textAllCaps">true</item>
+    </style>
+    <style name="MyCustomToolbarTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColorPrimary">@color/colorPrimary</item>
+        <item name="android:textColorSecondary">@color/colorPrimary</item>
+        <item name="android:itemBackground">@color/colorPrimary</item>
+        <item name="android:actionMenuTextColor">@color/colorAccent</item>
+    </style>
+    <style name="alertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+    <style name="customDialog" parent="android:Theme.Dialog">
+        <!--<item name="android:windowBackground">@color/colorPrimary</item>-->
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:windowMinWidthMajor">90%</item>
+        <item name="android:windowMinWidthMinor">90%</item>
+        <!--<item name="android:textColor">@color/text_hint</item>-->
+    </style>
+    <declare-styleable name="custom">
+        <attr format="enum" name="textStyle">
+            <enum name="Normal" value="0"/>
+            <enum name="Bold" value="1"/>
+            <enum name="Italic" value="2"/>
+            <enum name="Light" value="3"/>
+            <enum name="Medium" value="4"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="expandableLayout">
+        <attr format="integer" name="ael_duration"/>
+        <attr format="boolean" name="ael_expanded"/>
+        <attr format="integer" name="ael_defaultChildIndex"/>
+        <attr format="dimension" name="ael_defaultPosition"/>
+        <attr format="enum" name="ael_orientation">
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr>
+        <attr format="enum" name="ael_interpolator">
+            <enum name="accelerateDecelerate" value="0"/>
+            <enum name="accelerate" value="1"/>
+            <enum name="anticipate" value="2"/>
+            <enum name="anticipateOvershoot" value="3"/>
+            <enum name="bounce" value="4"/>
+            <enum name="decelerate" value="5"/>
+            <enum name="fastOutLinearIn" value="6"/>
+            <enum name="fastOutSlowIn" value="7"/>
+            <enum name="linear" value="8"/>
+            <enum name="linearOutSlowIn" value="9"/>
+            <enum name="overshoot" value="10"/>
+        </attr>
+    </declare-styleable>
+</resources>

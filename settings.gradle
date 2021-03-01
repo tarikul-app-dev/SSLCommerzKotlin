@@ -1,0 +1,3 @@
+include ':sslCommerzSdk'
+include ':app'
+rootProject.name = "SSLCPayment"
